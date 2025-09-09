@@ -1,6 +1,6 @@
-<h1 align="center">
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=00FF9D&center=true&vCenter=true&width=700&lines=👋+Hi%2C+I'm+Debasis+Parida;🚀+Frontend+%26+UI+Developer;🎨+Crafting+Beautiful+Web+Experiences;⚡+Responsive+%7C+Interactive+%7C+Creative" alt="Typing SVG" />
-</h1>
+</p>
 
 ---
 
